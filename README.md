@@ -1,2 +1,2 @@
-# smarteducation
+# Smart education
 KnowledgeHub
